@@ -1,0 +1,26 @@
+# Python/venv
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & outputs
+# Notebooks will create lots of csv/png logs;
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.log
+*.pkl
+*.pt
+*.h5
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
